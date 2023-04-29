@@ -57,32 +57,32 @@
           "som": [
             {
               "id": 1,
-              "photo": "http://localhost:2023/Assets/places/word_wide.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/word_wide.jpg",
               "era": "I'm flexble"
             },
             {
               "id": 2,
-              "photo": "http://localhost:2023/Assets/places/europe.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/europe.jpg",
               "era": "Europe"
             },
             {
               "id": 3,
-              "photo": "http://localhost:2023/Assets/places/mexico.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/mexico.jpg",
               "era": "Mexico"
             },
             {
               "id": 4,
-              "photo": "http://localhost:2023/Assets/places/south_america.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/south_america.jpg",
               "era": "South america"
             },
             {
               "id": 5,
-              "photo": "http://localhost:2023/Assets/places/italy.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/italy.jpg",
               "era": "Italy"
             },
             {
               "id": 6,
-              "photo": "http://localhost:2023/Assets/places/asia.jpg",
+              "photo": "https://airbnb-api-l62o.onrender.com/Assets/places/asia.jpg",
               "era": "Asia"
             }
           ]
@@ -124,11 +124,11 @@
             "price": 520,
             "liked": false,
             "imagesUrl": [
-              "http://localhost:2023/Assets/images/kichen.jpeg",
-              "http://localhost:2023/Assets/images/beach_patio.jpg",
-              "http://localhost:2023/Assets/images/bed_1.jpg",
-              "http://localhost:2023/Assets/images/bed_2.jpg",
-              "http://localhost:2023/Assets/images/house_mountain.jpg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/kichen.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/beach_patio.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/bed_1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/bed_2.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/house_mountain.jpg"
             ]
           },
           {
@@ -139,11 +139,11 @@
             "price": 620,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/wide.jpg",
-              "http://localhost:2023/Assets/images/wide_views.jpeg",
-              "http://localhost:2023/Assets/images/outSide.jpeg",
-              "http://localhost:2023/Assets/images/outSide.jpg",
-              "http://localhost:2023/Assets/images/hero/City_01.png"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/wide.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/wide_views.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/outSide.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/outSide.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_01.png"
             ]
           },
           {
@@ -154,11 +154,11 @@
             "price": 102,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/pool.jpg",
-              "http://localhost:2023/Assets/images/hero/Bed_room.jpeg",
-              "http://localhost:2023/Assets/images/pool.jpg",
-              "http://localhost:2023/Assets/images/hero/Bed_room.jpeg",
-              "http://localhost:2023/Assets/images/pool.jpg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Bed_room.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Bed_room.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool.jpg"
             ]
           },
           {
@@ -169,11 +169,11 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/forest.jpg",
-              "http://localhost:2023/Assets/images/patio_2.jpg",
-              "http://localhost:2023/Assets/images/patio_3.jpg",
-              "http://localhost:2023/Assets/images/patio_4.jpeg",
-              "http://localhost:2023/Assets/images/luxe_2.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/forest.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_2.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_3.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_4.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_2.jpeg"
             ]
           },
           {
@@ -184,11 +184,11 @@
             "price": 520,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/luxe_6.jpg",
-              "http://localhost:2023/Assets/images/hero/Living_room.jpg",
-              "http://localhost:2023/Assets/images/hero/Living_room_01.jpg",
-              "http://localhost:2023/Assets/images/hero/Living_room_02.jpeg",
-              "http://localhost:2023/Assets/images/hero/Living_room_03.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_6.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Living_room.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Living_room_01.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Living_room_02.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Living_room_03.jpeg"
             ]
            },
           {
@@ -199,11 +199,11 @@
             "price": 620,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/house.jpeg",
-              "http://localhost:2023/Assets/images/hero/City_01.png",
-              "http://localhost:2023/Assets/images/hero/City_02.png",
-              "http://localhost:2023/Assets/images/hero/City_03.jpeg",
-              "http://localhost:2023/Assets/images/hero/City_04.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/house.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_01.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_02.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_03.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_04.jpeg"
             ]
            },
           {
@@ -214,13 +214,13 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/bed.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook.png",
-              "http://localhost:2023/Assets/images/hero/Cook_01.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_02.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_03.jpeg",
-              "http://localhost:2023/Assets/images/hero/Cook_04.jpeg",
-              "http://localhost:2023/Assets/images/hero/Cook_05.png"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/bed.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_01.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_02.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_03.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_04.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_05.png"
             ]
           },
           {
@@ -231,12 +231,12 @@
             "price": 820,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/garden.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office_01.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office_02.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office_03.jpg",
-              "http://localhost:2023/Assets/images/hero/Office_04.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/garden.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office_01.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office_02.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office_03.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office_04.jpeg"
             ]
           },
           {
@@ -247,13 +247,13 @@
             "price": 320,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/garden.jpg",
-              "http://localhost:2023/Assets/images/hero/Shower.jpg",
-              "http://localhost:2023/Assets/images/hero/Shower_01.jpeg",
-              "http://localhost:2023/Assets/images/hero/Shower_02.jpeg",
-              "http://localhost:2023/Assets/images/hero/Shower_03.png",
-              "http://localhost:2023/Assets/images/hero/Shower_04.jpg",
-              "http://localhost:2023/Assets/images/hero/Shower_04.jpg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/garden.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower_01.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower_02.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower_03.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower_04.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Shower_04.jpg"
             ]
           },
           {
@@ -264,11 +264,11 @@
             "price": 220,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/living_room.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook.png",
-              "http://localhost:2023/Assets/images/hero/Cook_01.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_02.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_03.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_01.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_02.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_03.jpeg"
             ]
           },
           {
@@ -279,11 +279,11 @@
             "price": 108,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/luxe_2.jpeg",
-              "http://localhost:2023/Assets/images/hero/Guest_01.jpeg",
-              "http://localhost:2023/Assets/images/hero/Guest_place.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office.jpeg",
-              "http://localhost:2023/Assets/images/hero/Office_01.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_2.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Guest_01.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Guest_place.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Office_01.jpeg"
             ]
           },
           {
@@ -294,12 +294,12 @@
             "price": 600,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/luxe_1.jpeg",
-              "http://localhost:2023/Assets/images/living_room1.jpg",
-              "http://localhost:2023/Assets/images/luxe_1.jpeg",
-              "http://localhost:2023/Assets/images/living_room1.jpg",
-              "http://localhost:2023/Assets/images/luxe_1.jpeg",
-              "http://localhost:2023/Assets/images/living_room1.jpg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_1.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_1.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/luxe_1.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room1.jpg"
             ]
          },
           {
@@ -310,12 +310,12 @@
             "price": 600,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/living_room2.jpg",
-              "http://localhost:2023/Assets/images/living_room1.jpg",
-              "http://localhost:2023/Assets/images/living_room2.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook.png",
-              "http://localhost:2023/Assets/images/hero/Cook_01.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_02.jpg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room2.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/living_room2.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook.png",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_01.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_02.jpg"
             ]
           },
           {
@@ -326,11 +326,11 @@
             "price": 162,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/patio_4.jpeg",
-              "http://localhost:2023/Assets/images/patio_3.jpg",
-              "http://localhost:2023/Assets/images/patio_4.jpeg",
-              "http://localhost:2023/Assets/images/patio_3.jpg",
-              "http://localhost:2023/Assets/images/hero/Cook_03.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_4.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_3.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_4.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/patio_3.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Cook_03.jpeg"
             ]
           },
           {
@@ -341,11 +341,11 @@
             "price": 182,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/pool.jpg",
-              "http://localhost:2023/Assets/images/pool_1.jpg",
-              "http://localhost:2023/Assets/images/pool.jpg",
-              "http://localhost:2023/Assets/images/pool_1.jpg",
-              "http://localhost:2023/Assets/images/hero/Living_room_03.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool_1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/pool_1.jpg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/hero/Living_room_03.jpeg"
             ]
           },
           {
@@ -356,184 +356,184 @@
             "price": 102,
             "liked": false,
             "imagesUrl":[
-              "http://localhost:2023/Assets/images/beach.jpeg",
-              "http://localhost:2023/Assets/images/inside.jpeg",
-              "http://localhost:2023/Assets/images/beach.jpeg",
-              "http://localhost:2023/Assets/images/inside.jpeg",
-              "http://localhost:2023/Assets/images/beach.jpeg",
-              "http://localhost:2023/Assets/images/inside.jpeg"
+              "https://airbnb-api-l62o.onrender.com/Assets/images/beach.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/inside.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/beach.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/inside.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/beach.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/inside.jpeg"
             ]
           }
     ],
     "subHeader": [
         {
          "id": 1,
-          "imageNav": "http://localhost:2023/Assets/icons/Amazing_views.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/Amazing_views.jpg",
           "categorie": "Amazing views"
         },
         {
          "id": 2,
-          "imageNav": "http://localhost:2023/Assets/icons/oh_my_god.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/oh_my_god.jpg",
           "categorie": "OMG!"
         },
         {
          "id": 3,
-          "imageNav": "http://localhost:2023/Assets/icons/cabins.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/cabins.jpg",
           "categorie": "cabins"
         },
         {
          "id": 4,
-          "imageNav": "http://localhost:2023/Assets/icons/off_the_grid.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/off_the_grid.jpg",
           "categorie": "Off-the-grid"
         },
         {
          "id": 5,
-          "imageNav": "http://localhost:2023/Assets/icons/beachfront.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/beachfront.jpg",
           "categorie": "Beachfront"
         },
         {
          "id": 6,
-          "imageNav": "http://localhost:3000//Assets/icons/mansions.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/mansions.jpg",
           "categorie": "Mansion"
         },
         {
          "id": 7,
-          "imageNav": "http://localhost:3000//Assets/icons/ski_in_out.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/ski_in_out.jpg",
           "categorie": "Ski-in/out"
         },
         {
          "id": 8,
-          "imageNav": "http://localhost:2023/Assets/icons/private_room.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/private_room.jpg",
           "categorie": "Private Room"
         },
         {
          "id": 9,
-          "imageNav": "http://localhost:2023/Assets/icons/luxe.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/luxe.jpg",
           "categorie": "Luxe"
         },
         {
           "id": 10,
-          "imageNav": "http://localhost:2023/Assets/icons/Amazing_pools.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/Amazing_pools.jpg",
           "categorie": "Amazing pools"
         },
         {
           "id": 11,
-          "imageNav": "http://localhost:2023/Assets/icons/design.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/design.jpg",
           "categorie": "Desing"
         },
         {
           "id": 12,
-          "imageNav": "http://localhost:2023/Assets/icons/tiny_home.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/tiny_home.jpg",
           "categorie": "Tiny home"
         },
         {
           "id": 13,
-          "imageNav": "http://localhost:2023/Assets/icons/trending.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/trending.jpg",
           "categorie": "Trending"
         },
         {
           "id": 14,
-          "imageNav": "http://localhost:2023/Assets/icons/treeHouses.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/treeHouses.jpg",
           "categorie": "Treehouses"
         },
         {
           "id": 15,
-          "imageNav": "http://localhost:2023/Assets/icons/lake.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/lake.jpg",
           "categorie": "lakefront"
         },
         {
           "id": 16,
-          "imageNav": "http://localhost:2023/Assets/icons/boats.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/boats.jpg",
           "categorie": "Boeats"
         },
         {
           "id": 17,
-          "imageNav": "http://localhost:2023/Assets/icons/a_frames.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/a_frames.jpg",
           "categorie": "A-frames"
         },
         {
           "id": 18,
-          "imageNav": "http://localhost:2023/Assets/icons/countrySide.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/countrySide.jpg",
           "categorie": "countrySide"
         },
         {
           "id": 19,
-          "imageNav": "http://localhost:2023/Assets/icons/islands.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/islands.jpg",
           "categorie": "Islands"
         },
         {
           "id": 20,
-          "imageNav": "http://localhost:2023/Assets/icons/farms.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/farms.jpg",
           "categorie": "farmes"
         },
         {
           "id": 21,
-          "imageNav": "http://localhost:2023/Assets/icons/play.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/play.jpg",
           "categorie": "Play"
         },
         {
           "id": 22,
-          "imageNav": "http://localhost:2023/Assets/icons/vineyards.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/vineyards.jpg",
           "categorie": "Vineyards"
         },
         {
           "id": 23,
-          "imageNav": "http://localhost:2023/Assets/icons/national_parks.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/national_parks.jpg",
           "categorie": "National parks"
         },
         {
           "id": 24,
-          "imageNav": "http://localhost:2023/Assets/icons/caves.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/caves.jpg",
           "categorie": "Cave"
         },
         {
           "id": 25,
-          "imageNav": "http://localhost:2023/Assets/icons/lake.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/lake.jpg",
           "categorie": "Lake"
         },
         {
           "id": 26,
-          "imageNav": "http://localhost:2023/Assets/icons/earth_homes.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/earth_homes.jpg",
           "categorie": "earth home"
         },
         {
           "id": 27,
-          "imageNav": "http://localhost:2023/Assets/icons/domes.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/domes.jpg",
           "categorie": "domes"
         },
         {
           "id": 28,
-          "imageNav": "http://localhost:2023/Assets/icons/tropical.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/tropical.jpg",
           "categorie": "tropical"
         },
         {
           "id": 29,
-          "imageNav": "http://localhost:2023/Assets/icons/chefs_kitchens.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/chefs_kitchens.jpg",
           "categorie": "chef's kitchens"
         },
         {
           "id": 30,
-          "imageNav": "http://localhost:2023/Assets/icons/desert.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/desert.jpg",
           "categorie": "Desert"
         },
         {
           "id": 31,
-          "imageNav": "http://localhost:2023/Assets/icons/yurts.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/yurts.jpg",
           "categorie": "Yurts"
         },
         {
           "id": 32,
-          "imageNav": "http://localhost:2023/Assets/icons/houseboads.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/houseboads.jpg",
           "categorie": "Houseboads"
         },
         {
           "id": 34,
-          "imageNav": "http://localhost:2023/Assets/icons/surfing.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/surfing.jpg",
           "categorie": "surfing"
         },
         {
           "id": 35,
-          "imageNav": "http://localhost:2023/Assets/icons/iconic_cites.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/iconic_cites.jpg",
           "categorie": "Iconic cites"
         }
     ],

@@ -28,9 +28,9 @@
 		"btnTitle": "update your estimate"
 	},
 	"contentImage": {
-		"support": "http://localhost:2023/Assets/host_home/Airbnb_guide.jpg",
-		"detailImage": "http://localhost:2023/Assets/host_home/cover_airbnb.jpg",
-		"superHost": "http://localhost:2023/Assets/host_home/Airbnb_support.jpg"
+		"support": "https://airbnb-api-l62o.onrender.com/Assets/host_home/Airbnb_guide.jpg",
+		"detailImage": "https://airbnb-api-l62o.onrender.com/Assets/host_home/cover_airbnb.jpg",
+		"superHost": "https://airbnb-api-l62o.onrender.com/Assets/host_home/Airbnb_support.jpg"
 	},
 	"mainOne": {
 		"title": "Airbnb it.",
@@ -151,19 +151,19 @@
 			{
 				"id": "Park",
 				"mainTitle": "Park 12 Apartments",
-				"image": "http://localhost:2023/Assets/host_home/luxery.jpg",
+				"image": "https://airbnb-api-l62o.onrender.com/Assets/host_home/luxery.jpg",
 				"place": "San Diego, Califonia"
 			},
 			{
 				"id": "old Town",
 				"mainTitle": "Old Town Apartments ",
-				"image": "http://localhost:2023/Assets/host_home/kitchen.jpg",
+				"image": "https://airbnb-api-l62o.onrender.com/Assets/host_home/kitchen.jpg",
 				"place": "Scottstade, Arizona"
 			},
 			{
 				"id": "olive",
 				"mainTitle": "520 Olive Apartments",
-				"image": "http://localhost:2023/Assets/host_home/patio.jpg",
+				"image": "https://airbnb-api-l62o.onrender.com/Assets/host_home/patio.jpg",
 				"place": "San Diego, Califonia"
 			}
 		],

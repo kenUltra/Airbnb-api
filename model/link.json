@@ -2,19 +2,19 @@
   "images": [
     {
       "id": "dataOne",
-      "url": "http://localhost:2023/Assets/images/beach_patio.jpg"
+      "url": "https://airbnb-api-l62o.onrender.com/Assets/images/beach_patio.jpg"
     },
     {
       "id": "dataSecond",
-      "url": "http://localhost:2023/Assets/images/bed_2.jpg"
+      "url": "https://airbnb-api-l62o.onrender.com/Assets/images/bed_2.jpg"
     },
     {
       "id": "dataThird",
-      "url": "http://localhost:2023/Assets/images/beach_1.jpg"
+      "url": "https://airbnb-api-l62o.onrender.com/Assets/images/beach_1.jpg"
     },
     {
       "id": "datafourth",
-      "url": "http://localhost:2023/Assets/images/bed_1.jpg"
+      "url": "https://airbnb-api-l62o.onrender.com/Assets/images/bed_1.jpg"
     }
   ],
   "notification": [
