@@ -1,0 +1,87 @@
+{
+  "images": [
+    {
+      "id": "dataOne",
+      "url": "http://localhost:2023/Assets/images/beach_patio.jpg"
+    },
+    {
+      "id": "dataSecond",
+      "url": "http://localhost:2023/Assets/images/bed_2.jpg"
+    },
+    {
+      "id": "dataThird",
+      "url": "http://localhost:2023/Assets/images/beach_1.jpg"
+    },
+    {
+      "id": "datafourth",
+      "url": "http://localhost:2023/Assets/images/bed_1.jpg"
+    }
+  ],
+  "notification": [
+    {
+      "id": "left1",
+      "filter": "Date"
+    },
+    {
+      "id": "left2",
+      "filter": "Goupe size"
+    },
+    {
+      "id": "left3",
+      "filter": "more filters"
+    }
+  ],
+  "activity": [
+    {
+      "id": "I1",
+      "act": "Great for groups"
+    },
+    {
+      "id": "I2",
+      "act": "Great for friendly"
+    },
+    {
+      "id": "I3",
+      "act": "Animals"
+    },
+    {
+      "id": "I4",
+      "act": "arts & writting"
+    },
+    {
+      "id": "I5",
+      "act": "Banking"
+    },
+    {
+      "id": "I6",
+      "act": "Cooking"
+    },
+    {
+      "id": "I7",
+      "act": "Dancing"
+    },
+    {
+      "id": "I8",
+      "act": "Driving"
+    },
+    {
+      "id": "I9",
+      "act": "Ride"
+    },
+    {
+      "id": "I10",
+      "act": "Climbing"
+    },{
+      "id": "I11",
+      "act": "Singing"
+    },
+    {
+      "id": "I12",
+      "act": "playing in groups"
+    },
+    {
+      "id": "I13",
+      "act": "adventures"
+    }
+  ]
+}

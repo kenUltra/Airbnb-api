@@ -1,0 +1,255 @@
+{
+	"icons": {
+		"airbnb": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Airbnb homepage\" role=\"img\" focusable=\"false\" style=\"display: block; height: 32px; width: 32px;\"><path d=\"M16 1c2.008 0 3.463.963 4.751 3.269l.533 1.025c1.954 3.83 6.114 12.54 7.1 14.836l.145.353c.667 1.591.91 2.472.96 3.396l.01.415.001.228c0 4.062-2.877 6.478-6.357 6.478-2.224 0-4.556-1.258-6.709-3.386l-.257-.26-.172-.179h-.011l-.176.185c-2.044 2.1-4.267 3.42-6.414 3.615l-.28.019-.267.006C5.377 31 2.5 28.584 2.5 24.522l.005-.469c.026-.928.23-1.768.83-3.244l.216-.524c.966-2.298 6.083-12.989 7.707-16.034C12.537 1.963 13.992 1 16 1zm0 2c-1.239 0-2.053.539-2.987 2.21l-.523 1.008c-1.926 3.776-6.06 12.43-7.031 14.692l-.345.836c-.427 1.071-.573 1.655-.605 2.24l-.009.33v.206C4.5 27.395 6.411 29 8.857 29c1.773 0 3.87-1.236 5.831-3.354-2.295-2.938-3.855-6.45-3.855-8.91 0-2.913 1.933-5.386 5.178-5.42 3.223.034 5.156 2.507 5.156 5.42 0 2.456-1.555 5.96-3.855 8.907C19.277 27.766 21.37 29 23.142 29c2.447 0 4.358-1.605 4.358-4.478l-.004-.411c-.019-.672-.17-1.296-.714-2.62l-.248-.6c-1.065-2.478-5.993-12.768-7.538-15.664C18.053 3.539 17.24 3 16 3zm.01 10.316c-2.01.021-3.177 1.514-3.177 3.42 0 1.797 1.18 4.58 2.955 7.044l.21.287.174-.234c1.73-2.385 2.898-5.066 2.989-6.875l.006-.221c0-1.906-1.167-3.4-3.156-3.421h-.001z\"></path></svg>",
+		"tinyHouse": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.0639 7.63177V11.1393H7.51713V13.028H11.0639V16.5356H13.0048V13.028H16.5516V11.1393H13.0048V7.63177H11.0639Z\" fill=\"white\"></path><path d=\"M13.734 0.684168C13.2611 0.240904 12.6404 0 12 0C11.3596 0 10.7389 0.240904 10.266 0.674532L0 10.7251L1.36946 12.0549L2.10837 11.3321V19.9661C2.10837 20.4094 2.29557 20.8334 2.61084 21.1418C2.92611 21.4501 3.35961 21.6332 3.81281 21.6332H20.1773C20.6305 21.6332 21.064 21.4598 21.3892 21.1418C21.7143 20.8238 21.8916 20.3998 21.8916 19.9565V11.3032L22.6305 12.0259L24 10.7251L13.734 0.684168ZM4.03941 19.7542V9.4049L11.6355 1.97542C11.6847 1.92723 11.734 1.88869 11.803 1.86942C11.8621 1.84051 11.931 1.83087 12 1.83087H12.0099C12.0788 1.83087 12.1478 1.84051 12.2069 1.86942C12.266 1.89833 12.3251 1.92723 12.3744 1.97542L19.9704 9.4049V19.7542H4.03941Z\" fill=\"white\"></path></svg>",
+		"plusIcon": "<svg viewBox=\"0 0 16 16\" fill=\"currentColor\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 1a1 1 0 0 1 2 0v14a1 1 0 1 1-2 0V1z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0 8a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1z\"></path></svg>",
+		"nimusIcon": "<svg viewBox=\"0 0 16 16\" fill=\"currentColor\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M0 8a1 1 0 0 1 1-1h14a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1z\"></path></svg>",
+		"magnifier": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" role=\"presentation\" focusable=\"false\"><g fill=\"none\"><path d=\"m13 24c6.0751322 0 11-4.9248678 11-11 0-6.07513225-4.9248678-11-11-11-6.07513225 0-11 4.92486775-11 11 0 6.0751322 4.92486775 11 11 11zm8-3 9 9\"></path></g></svg>",
+		"checkIcon": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;fill:none;height:24px;width:24px;stroke:#00A506;stroke-width:5.333333333333333;overflow:visible\" aria-label=\"Airbnb included\" role=\"img\" focusable=\"false\"><path fill=\"none\" d=\"m4 16.5 8 8 16-16\"></path></svg>",
+		"notCheckIcon": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;fill:none;height:24px;width:24px;stroke:#E12C32;stroke-width:5.333333333333333;overflow:visible\" aria-label=\"Competitors not included\" role=\"img\" focusable=\"false\"><path d=\"m6 6 20 20\"></path><path d=\"m26 6-20 20\"></path></svg>",
+		"dropDown": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;fill:none;height:16px;width:16px;stroke:currentColor;stroke-width:4;overflow:visible\" aria-hidden=\"true\" role=\"presentation\" focusable=\"false\"><g fill=\"none\"><path d=\"m28 12-11.2928932 11.2928932c-.3905243.3905243-1.0236893.3905243-1.4142136 0l-11.2928932-11.2928932\"></path></g></svg>",
+		"earth": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;height:16px;width:16px;fill:currentColor\" aria-hidden=\"true\" role=\"presentation\" focusable=\"false\"><path d=\"m8.002.25a7.77 7.77 0 0 1 7.748 7.776 7.75 7.75 0 0 1 -7.521 7.72l-.246.004a7.75 7.75 0 0 1 -7.73-7.513l-.003-.245a7.75 7.75 0 0 1 7.752-7.742zm1.949 8.5h-3.903c.155 2.897 1.176 5.343 1.886 5.493l.068.007c.68-.002 1.72-2.365 1.932-5.23zm4.255 0h-2.752c-.091 1.96-.53 3.783-1.188 5.076a6.257 6.257 0 0 0 3.905-4.829zm-9.661 0h-2.75a6.257 6.257 0 0 0 3.934 5.075c-.615-1.208-1.036-2.875-1.162-4.686l-.022-.39zm1.188-6.576-.115.046a6.257 6.257 0 0 0 -3.823 5.03h2.75c.085-1.83.471-3.54 1.059-4.81zm2.262-.424c-.702.002-1.784 2.512-1.947 5.5h3.904c-.156-2.903-1.178-5.343-1.892-5.494l-.065-.007zm2.28.432.023.05c.643 1.288 1.069 3.084 1.157 5.018h2.748a6.275 6.275 0 0 0 -3.929-5.068z\"></path></svg>",
+		"iconExpend": "<svg viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;fill:none;height:16px;width:16px;stroke:currentColor;stroke-width:4;overflow:visible\" aria-hidden=\"true\" role=\"presentation\" focusable=\"false\"><g fill=\"none\"><path d=\"m28 12-11.2928932 11.2928932c-.3905243.3905243-1.0236893.3905243-1.4142136 0l-11.2928932-11.2928932\"></path></g></svg>",
+		"facebook": "<svg viewBox=\"0 0 32 32\" role=\"img\" aria-hidden=\"false\" aria-label=\"Navigate to Facebook\" focusable=\"false\" style=\"height:18px;width:18px;display:block;fill:currentColor\"><path d=\"m8 14.41v-4.17c0-.42.35-.81.77-.81h2.52v-2.08c0-4.84 2.48-7.31 7.42-7.35 1.65 0 3.22.21 4.69.64.46.14.63.42.6.88l-.56 4.06c-.04.18-.14.35-.32.53-.21.11-.42.18-.63.14-.88-.25-1.78-.35-2.8-.35-1.4 0-1.61.28-1.61 1.73v1.8h4.52c.42 0 .81.42.81.88l-.35 4.17c0 .42-.35.71-.77.71h-4.21v16c0 .42-.35.81-.77.81h-5.21c-.42 0-.8-.39-.8-.81v-16h-2.52a.78.78 0 0 1 -.78-.78\" fill-rule=\"evenodd\"></path></svg>",
+		"twitter": "<svg viewBox=\"0 0 32 32\" role=\"img\" aria-hidden=\"false\" aria-label=\"Navigate to Twitter\" focusable=\"false\" style=\"height:18px;width:18px;display:block;fill:currentColor\"><path d=\"m31 6.36c-1.16.49-2.32.82-3.55.95 1.29-.76 2.22-1.87 2.72-3.38a13.05 13.05 0 0 1 -3.91 1.51c-1.23-1.28-2.75-1.94-4.51-1.94-3.41 0-6.17 2.73-6.17 6.12 0 .49.07.95.17 1.38-4.94-.23-9.51-2.6-12.66-6.38-.56.95-.86 1.97-.86 3.09 0 2.07 1.03 3.91 2.75 5.06-1-.03-1.92-.3-2.82-.76v.07c0 2.89 2.12 5.42 4.94 5.98-.63.17-1.16.23-1.62.23-.3 0-.7-.03-1.13-.13a6.07 6.07 0 0 0 5.74 4.24c-2.22 1.74-4.78 2.63-7.66 2.63-.56 0-1.06-.03-1.43-.1 2.85 1.84 6 2.76 9.41 2.76 7.29 0 12.83-4.01 15.51-9.3 1.36-2.66 2.02-5.36 2.02-8.09v-.46c-.03-.17-.03-.3-.03-.33a12.66 12.66 0 0 0 3.09-3.16\" fill-rule=\"evenodd\"></path></svg>",
+		"instagram": "<svg viewBox=\"0 0 24 24\" role=\"img\" aria-hidden=\"false\" aria-label=\"Navigate to Instagram\" focusable=\"false\" style=\"height:18px;width:18px;display:block;fill:currentColor\"><path d=\"m23.09.91c-.61-.61-1.33-.91-2.17-.91h-17.84c-.85 0-1.57.3-2.17.91s-.91 1.33-.91 2.17v17.84c0 .85.3 1.57.91 2.17s1.33.91 2.17.91h17.84c.85 0 1.57-.3 2.17-.91s.91-1.33.91-2.17v-17.84c0-.85-.3-1.57-.91-2.17zm-14.48 7.74c.94-.91 2.08-1.37 3.4-1.37 1.33 0 2.47.46 3.41 1.37s1.41 2.01 1.41 3.3-.47 2.39-1.41 3.3-2.08 1.37-3.41 1.37c-1.32 0-2.46-.46-3.4-1.37s-1.41-2.01-1.41-3.3.47-2.39 1.41-3.3zm12.66 11.63c0 .27-.09.5-.28.68a.92.92 0 0 1 -.67.28h-16.7a.93.93 0 0 1 -.68-.28.92.92 0 0 1 -.27-.68v-10.13h2.2a6.74 6.74 0 0 0 -.31 2.05c0 2 .73 3.71 2.19 5.12s3.21 2.12 5.27 2.12a7.5 7.5 0 0 0 3.75-.97 7.29 7.29 0 0 0 2.72-2.63 6.93 6.93 0 0 0 1-3.63c0-.71-.11-1.39-.31-2.05h2.11v10.12zm0-13.95c0 .3-.11.56-.31.77a1.05 1.05 0 0 1 -.77.31h-2.72c-.3 0-.56-.11-.77-.31a1.05 1.05 0 0 1 -.31-.77v-2.58c0-.29.11-.54.31-.76s.47-.32.77-.32h2.72c.3 0 .56.11.77.32s.31.47.31.76z\" fill-rule=\"evenodd\"></path></svg>",
+		"where": "<svg xmlns=\"http://www.w3.org/2000/svg\" <g style=\"opacity: 1;\"> <path d=\"M 45 0 C 27.677 0 13.584 14.093 13.584 31.416 c 0 4.818 1.063 9.442 3.175 13.773 c 2.905 5.831 11.409 20.208 20.412 35.428 l 4.385 7.417 C 42.275 89.252 43.585 90 45 90 s 2.725 -0.748 3.444 -1.966 l 4.382 -7.413 c 8.942 -15.116 17.392 -29.4 20.353 -35.309 c 0.027 -0.051 0.055 -0.103 0.08 -0.155 c 2.095 -4.303 3.157 -8.926 3.157 -13.741 C 76.416 14.093 62.323 0 45 0 z M 45 42.81 c -6.892 0 -12.5 -5.607 -12.5 -12.5 c 0 -6.893 5.608 -12.5 12.5 -12.5 c 6.892 0 12.5 5.608 12.5 12.5 C 57.5 37.202 51.892 42.81 45 42.81 z\"/></g></svg>"
+	},
+	"userplace": {
+		"title": "Tell us about your place",
+		"address": "Address or area",
+		"zip": "Shell Knob",
+		"kindPlace": "Type of space",
+		"guest": "Guests",
+		"kind": [
+			"Entire place",
+			"Private room"
+		],
+		"btnTitle": "update your estimate"
+	},
+	"contentImage": {
+		"support": "http://localhost:2023/Assets/host_home/Airbnb_guide.jpg",
+		"detailImage": "http://localhost:2023/Assets/host_home/cover_airbnb.jpg",
+		"superHost": "http://localhost:2023/Assets/host_home/Airbnb_support.jpg"
+	},
+	"mainOne": {
+		"title": "Airbnb it.",
+		"subtitle": "You could earn",
+		"nightHost": "7 nights",
+		"estimation": "at an estimated $133 a night",
+		"place": "Mojave",
+		"detailPlace": "Entire Place",
+		"room": "bedrooms",
+		"maxPrice": 1000,
+		"location": "Explore rates near to you",
+		"Choice": "Learn how we estimate your earnings",
+		"explore": "Explore rate near you"
+	},
+	"second": {
+		"title": "Airbnb it easily with Airbnb setup",
+		"setupAir": "Ready to get started?",
+		"btnAir": "Airbnb Setup",
+		"one": [
+			{
+				"id": "fst",
+				"title": "One to one guidance from superhost",
+				"content": "We'll match you with a Superhost in your area, who'll guide you from your first question to your first guest—by phone, video call, or chat."
+			},
+			{
+				"id": "sec",
+				"title": "An experienced guest for your first booking",
+				"content": "For your first booking, you can choose to welcome an experienced guest who has at least three stays and a good track record on Airbnb."
+			},
+			{
+				"id": "lastest",
+				"title": "Specialized support from Airbnb",
+				"content": "New Hosts get one-tap access to specially trained Community Support agents who can help with everything from account issues to billing support."
+			}
+		]
+	},
+	"AirCover": {
+		"airCover": "Airbnb it with top-to-bottom protection",
+		"topLeft": "Airbnb",
+		"topright": "Competitors",
+		"outTable": "Comparison is based on public information and free offerings by top competitors as of 10/22. Find details and exclusions",
+		"compare": [
+			{
+				"id": "guest",
+				"title": "Guest identity verification",
+				"subTitle": "Our comprehensive verification system checks details such as name, address, government ID and more to confirm the identity of guests who book on Airbnb.",
+				"air": true,
+				"comp": true
+			},
+			{
+				"id": "reservation",
+				"title": "Reservation screening",
+				"subTitle": "Our proprietary technology analyzes hundreds of factors in each reservation and blocks certain bookings that show a high risk for disruptive parties and property damage.",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "damage",
+				"title": "$3M damage protection",
+				"subTitle": "Airbnb reimburses you for damage caused by guests to your home and belongings and includes these specialized protections:",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "Art",
+				"case": "Art & valuable",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "auto",
+				"case": "Auto & boat",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "pets",
+				"case": "Pet damage",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "Income",
+				"case": "Income loss",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "clean",
+				"case": "Deep cleaning",
+				"air": true,
+				"comp": false
+			},
+			{
+				"id": "insurance",
+				"title": "$1M liability insurance",
+				"subTitle": "You're protected in the rare event that a guest gets hurt or their belongings are damaged or stolen.",
+				"air": true,
+				"comp": true
+			},
+			{
+				"id": "safety",
+				"title": "24-hours safety line",
+				"subTitle": "If you ever feel unsafe, our app provides one-tap access to specially-trained safety agents, day or night.",
+				"air": true,
+				"comp": false
+			}
+		]
+	},
+	"superHost": {
+		"title": "Airbnb it with help for a",
+		"subT": "Superhost near to you",
+		"txtb": "Chat with a Superhost"
+	},
+	"airbnbApart": {
+		"title": "Introducing Airbnb-friendly apartments",
+		"typeApartment": [
+			{
+				"id": "Park",
+				"mainTitle": "Park 12 Apartments",
+				"image": "http://localhost:2023/Assets/host_home/luxery.jpg",
+				"place": "San Diego, Califonia"
+			},
+			{
+				"id": "old Town",
+				"mainTitle": "Old Town Apartments ",
+				"image": "http://localhost:2023/Assets/host_home/kitchen.jpg",
+				"place": "Scottstade, Arizona"
+			},
+			{
+				"id": "olive",
+				"mainTitle": "520 Olive Apartments",
+				"image": "http://localhost:2023/Assets/host_home/patio.jpg",
+				"place": "San Diego, Califonia"
+			}
+		],
+		"apartAirbnb": "We've partnered with apartment building across the US that let you rent place to live and airbnb it part-time. Explore available apartments and find out what you can earn"
+	},
+	"question": {
+		"title": "Your question, answered",
+		"reply": [
+			{
+				"id": "first-q",
+				"question": "Is my place right for Airbnb?",
+				"classR": "Wall",
+				"reply": "Airbnb guests are interested in all kinds of places. We have listings for tiny homes, cabins, threeHouses, and more. Even a spaces room can be great places for stays"
+			},
+			{
+				"id": "second-q",
+				"question": "Do I have to host all time?",
+				"classR": "Wall",
+				"reply": "Not at all—you control your calendar. You can host once a year, a few nights, month or even often"
+			},
+			{
+				"id": "third-q",
+				"question": "How much shoud I interact with guest?",
+				"classR": "Wall",
+				"reply": "It's up to you. Some host prefes to message guest only at the key moments—like sending a short note when they check in—while others also enjoy meeting their guest in person. You'll find a style that works for you and you guests."
+			},
+			{
+				"id": "forth-q",
+				"question": "Any tips for being greate Aibnb host?",
+				"classR": "Wall",
+				"reply": "Getting the basic down goes long way. Keep you place clean, respond to guest promptly, and provide necessary amenities, like fresh towel. Some Host like add personal touch, such as putting out fresh flowers or sharing a list of local place to explore—but it's not required"
+			},
+			{
+				"id": "fith",
+				"question": "What are Airbnb fees?",
+				"classR": "Wall",
+				"reply": "Airbnb typically collects a flast service fee of 3% of the reservation subtotal when you get paid. We also collect a fee from guests when they book. In many arears, Airbnb collects and pays sales and tourism taxe automatically on your behalf as well."
+			}
+		]
+	},
+	"footer": {
+		"main": [
+			{
+				"id": "sec-one",
+				"title": "Support",
+				"list": [
+					"Help Center",
+					"AirCover",
+					"Supporting people with disabilities",
+					"Cancellation options",
+					"Our COVID-19 Response",
+					"Report a neighborhood concern"
+				]
+			},
+			{
+				"id": "sec-second",
+				"title": "Community",
+				"list": [
+					"Airbnb.org: disaster relief housing",
+					"Combating discrimination"
+				]
+			},
+			{
+				"id": "sec-third",
+				"title": "Hosting",
+				"list": [
+					"Airbnb your home",
+					"AirCover for Hosts",
+					"Explore hosting resources",
+					"Visit our community forum",
+					"How to host responsibly",
+					"Airbnb-friendly apartments"
+				]
+			},
+			{
+				"id": "sec-forth",
+				"title": "Airbnb",
+				"list": [
+					"Newsroom",
+					"Learn about new features",
+					"Letter from our founders",
+					"Careers",
+					"Investors",
+					"Gift cards"
+				]
+			}
+		]
+	}
+}

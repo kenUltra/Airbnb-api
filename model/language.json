@@ -1,0 +1,204 @@
+{
+    "language": {
+        "title": "Choose language or region",
+        "diffrentLang": [
+            {
+                "id": "00",
+                "country": "United State",
+                "language": "English",
+                "US": true
+            },
+            {
+                "id": "01",
+                "country": "Unted Kingdom",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "02",
+                "country": "Ireland",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "03",
+                "country": "New Zealand",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "04",
+                "country": "Canada",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "05",
+                "country": "Australia",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "06",
+                "country": "Guyana",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "07",
+                "country": "Singapore",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "08",
+                "country": "India",
+                "language": "English",
+                "US": false
+            },
+            {
+                "id": "09",
+                "country": "Span",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "10",
+                "country": "Chile",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "11",
+                "country": "Argentina",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "12",
+                "country": "Costa Rica",
+                "language": "Espanol",
+                "US": false
+
+            },
+            {
+                "id": "13",
+                "country": "Belice",
+                "language": "Espanol",
+                "US": false
+
+            },
+            {
+                "id": "14",
+                "country": "Bolvia",
+                "language": "Espanol",
+                "US": false
+
+            },
+            {
+                "id": "15",
+                "country": "El Salvador",
+                "language": "Espanol",
+                "US": false
+
+            },
+            {
+                "id": "16",
+                "country": "Hondura",
+                "language": "Espanol",
+                "US": false
+
+            },
+            {
+                "id": "17",
+                "country": "Mexico",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "18",
+                "country": "Latinoamerica",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "19",
+                "country": "Peru",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "20",
+                "country": "Guatemala",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "21",
+                "country": "Venezuala",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "22",
+                "country" : "Panama",
+                "language": "Espanol",
+                "US": false
+            },
+            {
+                "id": "23",
+                "country": "Eesti",
+                "language": "Eesti",
+                "US": false
+            },
+            {
+                "id": "24",
+                "country": "France",
+                "language": "French",
+                "US": false
+            },
+            {
+                "id":"25",
+                "country": "Belgique",
+                "language": "French",
+                "US": false
+            },
+            {
+                "id": "26",
+                "country": "Suice",
+                "language": "French",
+                "US": false
+            },
+            {
+                "id": "27",
+                "country": "Canada",
+                "language": "French",
+                "US": false
+            },
+            {
+                "id": "28",
+                "country": "Gaelige",
+                "language": "Eire",
+                "US": false
+            },
+            {
+                "id": "29",
+                "country": "Hrvatska",
+                "language": "Hrvatska",
+                "US": false
+            },
+            {
+                "id": "30",
+                "country": "Italiano",
+                "language": "ltalia",
+                "US": false
+            },
+            {
+                "id": "31",
+                "country": "Italiano",
+                "language": "Svizzera",
+                "US": false
+            }
+        ]
+    }
+}

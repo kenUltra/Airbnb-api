@@ -1,0 +1,36 @@
+{
+	"term": {
+		"title": "Term and condition of use",
+		"subtitle": "Those term will be apply to you since you visited this page. and all law will be apply to you whatever, where ever you are:",
+		"listRight": ["To not link this duplication of the Airbnb, Inc. by selling or using this to attact the main company", "To not using this as tools for making a adds without the pernission of the Airbnb comapny", "Accept all conditions and practice used by this website"],
+		"notice": "I use the tern of \"We\" not \"I\", even this website is made by me, using the world 'WE' sound more friendly.The real copyright is owned by Airbnb, Inc, including all offers",
+		"Airbnb": "This website doesn't contain any adds and not affiliate to Airbnb.",
+		"general": {
+			"one": "1. General",
+			"second": "2. Restrictions",
+			"third": "3. Our thought"
+		},
+		"baseGeneral": ["This website can be visited by anyone. Available anywhere all around the world no matter where. We want to mention some functionality may not look the same as the real website of Airbnb, and some functionality isn't Available at all.However we hope that not offend the Airbnb comapny. We are not affiate with the original Airbnb company, but we put the original link the the parent web site to allow the user to the see and take adventage of the Airbnb offers. Most importantly this web site doesn't contail any adds", "All visitor are the maseter of then action", "last thing "]
+	},
+	"privacy": {
+		"title": "Privacy",
+		"subtitle": "We respect your pricacy,and we think you have the right to be save what ever you are. here is how this works:",
+		"notice": "I use the tern of \"We\" not \"I\", even this website is made by me, using the world 'WE' sound more friendly.The real copyright is owned by Airbnb, Inc, including all offers",
+		"headline": {
+			"cookie": ".Cookies",
+			"track": ".TrackAlgorithm",
+			"location": ".Geolocation"
+		},
+		"detail": ["no cookies is used since it's not a commercial website. you can block cookies but it's not require", "used to create a profile of your self. it's was used to make your activity to the web addivite since they now you habit. This website doesnt use any track TrackAlgorithm", "Again this is not a actual website of airbnb inc. So we don't know your location"]
+	},
+	"userPrivacy": {
+		"title": "Your privacy",
+		"subtitle": "pricacy",
+		"notice": "I use the tern of \"We\" not \"I\", even this website is made by me, using the world 'WE' sound more friendly.The real copyright is owned by Airbnb, Inc, including all offers"
+	},
+	"map": {
+		"title": "User Map",
+		"subtitle": "This is not really used and doesn't make any actions",
+		"notice": "I use the tern of \"We\" not \"I\", even this website is made by me, using the world 'WE' sound more friendly.The real copyright is owned by Airbnb, Inc, including all offers. \n this website is suject to change "
+	}
+}

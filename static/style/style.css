@@ -1,0 +1,50 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	overflow: hidden;
+	height: 100%;
+}
+.insider,
+.error {
+	text-align: center;
+}
+.error-container {
+    height: 40pc;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #fefefe;
+    background: #000;
+}
+.error-container > h1 {
+    font-size: 45px;
+}
+.insider > h1 {
+	margin: 14rem 0px;
+	font-size: 65px;
+	color: transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: url(../Assets/host_home/luxery.jpg);
+	background-position: center;
+	background-size: 72rem auto;
+	background-repeat: no-repeat;
+}
+.image-by-link {
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.image-by-link > img {
+	width: 816px;
+	height: auto;
+	font-size: 30px;
+	color: currentColor;
+}
