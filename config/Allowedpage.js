@@ -1,4 +1,4 @@
-const AllowedSite = ["https://airbnb.com", "https://airbnb-api-l62o.onrender.com"]
+const AllowedSite = ["https://airbnb.com", "https://airbnb-api-l62o.onrender.com", "https://airbnb-simple.onrender.com"]
 
 const ops ={
     origin: (origin, callBack)=>{
