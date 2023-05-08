@@ -141,7 +141,7 @@
             "imagesUrl":[
               "https://airbnb-api-l62o.onrender.com/Assets/images/wide.jpg",
               "https://airbnb-api-l62o.onrender.com/Assets/images/wide_views.jpeg",
-              "https://airbnb-api-l62o.onrender.com/Assets/images/outSide.jpeg",
+              "https://airbnb-api-l62o.onrender.com/Assets/images/outside.jpeg",
               "https://airbnb-api-l62o.onrender.com/Assets/images/outSide.jpg",
               "https://airbnb-api-l62o.onrender.com/Assets/images/hero/City_01.png"
             ]
@@ -413,7 +413,7 @@
         },
         {
           "id": 10,
-          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/Amazing_pools.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/amazing_pools.jpg",
           "categorie": "Amazing pools"
         },
         {
@@ -498,7 +498,7 @@
         },
         {
           "id": 27,
-          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/domes.jpg",
+          "imageNav": "https://airbnb-api-l62o.onrender.com/Assets/icons/Domes.jpg",
           "categorie": "domes"
         },
         {
